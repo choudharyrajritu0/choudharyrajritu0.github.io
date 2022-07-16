@@ -1,0 +1,11 @@
+.icon-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-cont > img{
+    position: relative;
+    left: 4px;
+    top: 4px;
+}
